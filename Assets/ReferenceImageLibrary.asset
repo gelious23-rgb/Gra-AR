@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5508878997043737846
+  m_GuidHigh: 6447176849672281735
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5604401310669798759
+      m_GuidHigh: 11079806740404208776
+    m_SerializedTextureGuid:
+      m_GuidLow: 15646712221324838969
+      m_GuidHigh: 18094781630914242360
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Door
+    m_Texture: {fileID: 2800000, guid: 8ed4883949ddd9243827e8e605941dfb, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4997328003887702523
+      m_GuidHigh: 17248758319386883721
+    m_SerializedTextureGuid:
+      m_GuidLow: 13151789253285020485
+      m_GuidHigh: 119073646652514394
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Button
+    m_Texture: {fileID: 2800000, guid: 0ada83458aa5b6845a60d5cad908a701, type: 3}
